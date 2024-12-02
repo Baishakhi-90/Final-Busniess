@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0px;
+  }
+  .contaner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 12px;
+  }
+  .business{
+    color: green;
+    margin-right: 150px;
+     }
+.banner_sec{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+.our{
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.dolor{
+    margin-left:250px;
+}
+.banner_sec2{
+     height:200px ;
+     margin-bottom: 100px ;
+}
+.consult{
+    margin-left: 120px;
+    margin-top: 50px;
+    color: blue;
+}
+.part1{
+    background-color: beige;
+    margin: 5px;
+    padding: 20px;
+}
+.lorem{
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
